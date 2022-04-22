@@ -3,13 +3,13 @@
 A repo with materials for beginners to learn general data science & computer science concepts.
 
 `NumPy`
-- slicing2DArrays
+- Slicing2DArrays
 
 `pandas`
-- compareValuesBetweenDataFrames
+- CompareValuesBetweenDataFrames
 
 `Python`
-- simplifyLoopingWithCounters
+- SimplifyLoopingWithCounters
 
 `scikit-learn` 
 - an introduction to machine learning algorithms
