@@ -10,6 +10,7 @@ A repo with materials for beginners to learn general data science & computer sci
 
 `Python`
 - SimplifyLoopingWithCounters
+- WorkingWithJSON
 
 `scikit-learn` 
 - an introduction to machine learning algorithms
