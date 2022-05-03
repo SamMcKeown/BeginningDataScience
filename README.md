@@ -1,6 +1,6 @@
 ### BeginningDataScience
 
-A repo with materials for beginners to learn general data science & computer science concepts.
+A repo with materials for beginners to learn general data science & computer science concepts
 
 `NumPy`
 - Slicing2DArrays
@@ -13,12 +13,12 @@ A repo with materials for beginners to learn general data science & computer sci
 - WorkingWithJSON
 - UnderamplingOversampling
 
-`scikit-learn` 
+`scikit-learn` \n
 An introduction to machine learning algorithms
 
 - MachineLearningAlgorithms
 
-`SweetViz`
+`SweetViz` \n
 How to quickly perform exploratory data analysis in python
 
 - SweetvizQuickEDA
