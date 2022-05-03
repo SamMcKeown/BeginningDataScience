@@ -13,12 +13,8 @@ A repo with materials for beginners to learn general data science & computer sci
 - WorkingWithJSON
 - UnderamplingOversampling
 
-`scikit-learn`\
-An introduction to machine learning algorithms
-
+`scikit-learn`
 - MachineLearningAlgorithms
 
-`SweetViz`\
-How to quickly perform exploratory data analysis in python
-
+`SweetViz`
 - SweetvizQuickEDA
