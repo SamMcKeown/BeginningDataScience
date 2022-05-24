@@ -17,6 +17,6 @@ A repo with materials for beginners to learn general data science & computer sci
 
 **SweetvizQuickEDA**: Automating EDA using `Sweetviz`
 
-**UnderamplingOversampling**: Undersampling & Oversampling techniques
+**UnderamplingOversampling**: Undersampling & Oversampling techniques for imbalanced classification
 
 **WorkingWithJSON**: Extract data from json files using `json_normalize`
