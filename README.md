@@ -7,6 +7,8 @@ A repo with materials for beginners to learn general data science & computer sci
 
 **DataFramePivot**: How to pivot your `pandas` DataFrame
 
+**EstimatorCumulativeDistributionFunction**: Empirical Cumulative Distribution Function (ECDF)
+
 **MachineLearningAlgorithms**: A quick introduction to `scikit-learn` & Machine Learning algorithms
 
 **PlottingErrorBars**: How to add error bars to both bar charts and line charts in Python
