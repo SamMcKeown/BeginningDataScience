@@ -22,3 +22,7 @@ A repo with materials for beginners to learn general data science & computer sci
 **UnderamplingOversampling**: Undersampling & Oversampling techniques for imbalanced classification
 
 **WorkingWithJSON**: Extract data from json files using `json_normalize`
+
+## Folders
+
+**BasicSQL**: Basic SQL for beginners
